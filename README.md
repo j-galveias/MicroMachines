@@ -56,7 +56,9 @@ This is a Micro Machines game built in C++ during the Computer Graphics for Game
 ## Video Example
 
 
-https://user-images.githubusercontent.com/32814782/211857770-35c95df1-e671-4dc1-8c1a-1ea962886b68.mp4
+https://user-images.githubusercontent.com/32814782/211858818-260ea569-80ae-4bd4-a8e1-92f12e5b27f8.mp4
+
+
 
 
 <!-- CONTACT -->
