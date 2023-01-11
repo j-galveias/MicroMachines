@@ -78,6 +78,6 @@ João Galveias - joao.galveias@tecnico.ulisboa.pt
 [linkedin-url]: https://www.linkedin.com/in/joao-galveias/
 [product-screenshot]: images/screenshot.png
 [Unity.js]: https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social
-[Unity-url]: https://unity.com/
+
 
 
