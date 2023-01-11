@@ -46,7 +46,7 @@ This is a Micro Machines game built in C++ during the Computer Graphics for Game
 
 ### Built With
 
-* [![Unity][Unity.js]][Unity-url]
+* [![Unity][Unity.js]]
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
